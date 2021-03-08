@@ -1,6 +1,5 @@
 # Zombie Shooter 
 
 Developers:
-Adam, Matt, Ben
-
+Adam, Matt
 Developed with Unreal Engine 4
